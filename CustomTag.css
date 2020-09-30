@@ -17,10 +17,10 @@
 
 /* Greven */
 
-.avatar-1BDn8e[src*="153288646970048513"]  + h2 .role-2irmRk ::after {
+.avatar-1BDn8e[src*="153288646970048513"] + h2 .username-1A8OIy::after {
   content: 'Boss';
   color: #fff;
-  background: #b34343;
+  background: #080808;
   display: inline-block;
   font-size: 10px;
   font-weight: 500;
@@ -30,4 +30,3 @@
   line-height: 1.3;
   margin-left: 4px;
 }
-
